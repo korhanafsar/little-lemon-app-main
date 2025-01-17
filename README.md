@@ -85,6 +85,3 @@ The challenges I encountered, especially in functionality the right data to get 
 
 **Interactive Location Map**: Integrated an interactive map using the Google Maps API.
 
-## License
-This project is licensed under the MIT License
-
